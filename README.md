@@ -112,7 +112,7 @@ Quickly process transactions with an easy-to-use interface.
 ## 🤝 Feedback & Contributions
 We value your feedback and welcome contributions to improve Kaysir. Feel free to open an issue or submit a pull request on our [GitHub repository](https://github.com/your-repo/kaysir).
 
-## 📜 Hak Cipta
+## 📜 Copyright
 Kaysir Application © 2025. All rights reserved. 
 
 Created on: January 1, 2025 
