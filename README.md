@@ -52,7 +52,8 @@ pnpm dev
 bun dev
 ```
 
-# Open http://localhost:3000 in your browser to see Kaysir in action.
+#### Open in browser:
+[http://localhost:3000](http://localhost:3000)
 
 Start editing the page by modifying `app/page.tsx`. The application auto-updates as you save changes.
 
@@ -68,7 +69,7 @@ Start editing the page by modifying `app/page.tsx`. The application auto-updates
 
 #### Clone the repository:
 ```bash
-git clone https://github.com/your-repo/kaysir.git
+git clone https://github.com/yorizpra/kaysir.git
 cd kaysir
 ```
 
@@ -179,7 +180,7 @@ Mulai edit halaman dengan memodifikasi `app/page.tsx`. Aplikasi ini akan diperba
 
 1. **Clone repositori**:
 ```bash
-git clone https://github.com/your-repo/kaysir.git
+git clone https://github.com/yorizpra/kaysir.git
 cd kaysir
 ```
 
